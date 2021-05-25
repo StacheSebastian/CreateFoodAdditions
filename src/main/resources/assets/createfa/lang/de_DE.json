@@ -1,0 +1,14 @@
+{
+  "item.createfa.hamburger": "Hamburger",
+  "item.createfa.cheeseburger": "Cheeseburger",
+  "item.createfa.salt": "Salz",
+  "item.createfa.cheese": "K\u00e4se",
+  "item.createfa.schnitzel": "Schnitzel",
+  "item.createfa.bread_crums": "Semmelbrösel",
+  "item.createfa.ground_chicken": "Hühnerhack",
+  "item.createfa.chicken_nuggets": "Chicken Nuggets",
+
+  "tooltip.cheeseburger.createfa": "§bMein Lieblingsessen",
+
+  "itemGroup.createfatab" : "Create Food Additions"
+}
