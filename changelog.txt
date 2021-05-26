@@ -1,2 +1,6 @@
+v1.0.2: -Added Chicken Nuggets
+	-Added Ground Chicken
+	-Changed Bread Crums Recipe
+
 v1.0.1: -Added Bread Crums
 	-Added Schnitzel
