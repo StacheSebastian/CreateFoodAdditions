@@ -1,3 +1,6 @@
+v1.0.1: -Added Mixed Egg
+	-Changed Heat Requirement for Cheese from NONE to Heated
+	
 v1.0.2: -Added Chicken Nuggets
 	-Added Ground Chicken
 	-Changed Bread Crums Recipe
