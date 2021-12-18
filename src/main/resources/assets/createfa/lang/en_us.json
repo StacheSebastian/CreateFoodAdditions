@@ -1,0 +1,25 @@
+{
+  "item.createfa.hamburger": "Hamburger",
+  "item.createfa.cheeseburger": "Cheeseburger",
+  "item.createfa.salt": "Salt",
+  "item.createfa.cheese": "Cheese",
+  "item.createfa.schnitzel": "Schnitzel",
+  "item.createfa.bread_crumbs": "Bread Crumbs",
+  "item.createfa.ground_chicken": "Ground Chicken",
+  "item.createfa.chicken_nuggets": "Chicken Nuggets",
+  "item.createfa.mixed_egg": "Mixed Egg",
+  "item.createfa.ground_beef": "Ground Beef",
+  "item.createfa.fries": "Fries",
+  "item.createfa.meatballs": "Meatballs",
+  "item.createfa.incomplete_cheeseburger": "Incomplete Cheeseburger",
+  "item.createfa.incomplete_hamburger": "Incomplete Hamburger",
+  "item.createfa.incomplete_schnitzel": "Incomplete Schnitzel",
+  "item.createfa.incomplete_meatballs": "Incomplete Meatballs",
+  "item.createfa.incomplete_chicken_nuggets": "Incomplete Chicken Nuggets",
+
+
+  "tooltip.cheeseburger.createfa": "§dMy little Sister's Favorite Food",
+  "tooltip.schnitzel.createfa": "§bMy Favorite Food",
+
+  "itemGroup.createfatab" : "Create Food Additions"
+}

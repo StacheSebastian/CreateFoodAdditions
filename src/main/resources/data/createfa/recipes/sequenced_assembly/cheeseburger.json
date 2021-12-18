@@ -1,0 +1,65 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:bread"
+  },
+  "transitionalItem": {
+    "item": "createfa:incomplete_cheeseburger"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createfa:incomplete_cheeseburger"
+        },
+        {
+          "item": "createfa:cheese"
+        }
+      ],
+      "results": [
+        {
+          "item": "createfa:incomplete_cheeseburger"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createfa:incomplete_cheeseburger"
+        },
+        {
+          "item": "minecraft:cooked_beef"
+        }
+      ],
+      "results": [
+        {
+          "item": "createfa:incomplete_cheeseburger"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createfa:incomplete_cheeseburger"
+        },
+        {
+          "item": "minecraft:bread"
+        }
+      ],
+      "results": [
+        {
+          "item": "createfa:incomplete_cheeseburger"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "createfa:cheeseburger"
+    }
+  ],
+  "loops": 1
+}

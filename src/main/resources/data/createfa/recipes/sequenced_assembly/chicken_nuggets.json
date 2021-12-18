@@ -1,0 +1,66 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "createfa:ground_chicken"
+  },
+  "transitionalItem": {
+    "item": "createfa:incomplete_chicken_nuggets"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createfa:incomplete_chicken_nuggets"
+        },
+        {
+          "item": "create:wheat_flour"
+        }
+      ],
+      "results": [
+        {
+          "item": "createfa:incomplete_chicken_nuggets"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createfa:incomplete_chicken_nuggets"
+        },
+        {
+          "item": "minecraft:egg"
+        }
+      ],
+      "results": [
+        {
+          "item": "createfa:incomplete_chicken_nuggets"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createfa:incomplete_chicken_nuggets"
+        },
+        {
+          "item": "createfa:bread_crumbs"
+        }
+      ],
+      "results": [
+        {
+          "item": "createfa:incomplete_chicken_nuggets"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "createfa:chicken_nuggets",
+      "count": 3
+    }
+  ],
+  "loops": 1
+}

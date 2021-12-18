@@ -1,0 +1,65 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:porkchop"
+  },
+  "transitionalItem": {
+    "item": "createfa:incomplete_schnitzel"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createfa:incomplete_schnitzel"
+        },
+        {
+          "item": "create:wheat_flour"
+        }
+      ],
+      "results": [
+        {
+          "item": "createfa:incomplete_schnitzel"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createfa:incomplete_schnitzel"
+        },
+        {
+          "item": "minecraft:egg"
+        }
+      ],
+      "results": [
+        {
+          "item": "createfa:incomplete_schnitzel"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createfa:incomplete_schnitzel"
+        },
+        {
+          "item": "createfa:bread_crumbs"
+        }
+      ],
+      "results": [
+        {
+          "item": "createfa:incomplete_schnitzel"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "createfa:schnitzel"
+    }
+  ],
+  "loops": 1
+}

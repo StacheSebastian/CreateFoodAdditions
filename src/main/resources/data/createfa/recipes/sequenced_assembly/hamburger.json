@@ -1,0 +1,49 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:bread"
+  },
+  "transitionalItem": {
+    "item": "createfa:incomplete_hamburger"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createfa:incomplete_hamburger"
+        },
+        {
+          "item": "minecraft:cooked_beef"
+        }
+      ],
+      "results": [
+        {
+          "item": "createfa:incomplete_hamburger"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createfa:incomplete_hamburger"
+        },
+        {
+          "item": "minecraft:bread"
+        }
+      ],
+      "results": [
+        {
+          "item": "createfa:incomplete_hamburger"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "createfa:hamburger"
+    }
+  ],
+  "loops": 1
+}

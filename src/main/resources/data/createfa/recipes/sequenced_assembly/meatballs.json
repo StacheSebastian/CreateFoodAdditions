@@ -1,0 +1,34 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "createfa:ground_beef"
+  },
+  "transitionalItem": {
+    "item": "createfa:incomplete_meatballs"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createfa:incomplete_meatballs"
+        },
+        {
+          "item": "createfa:salt"
+        }
+      ],
+      "results": [
+        {
+          "item": "createfa:incomplete_meatballs"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "createfa:meatballs",
+      "count": 2
+    }
+  ],
+  "loops": 1
+}
