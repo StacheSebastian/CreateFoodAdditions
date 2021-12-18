@@ -1,0 +1,19 @@
+{
+  "item.createfa.hamburger": "Hamburguesa",
+  "item.createfa.cheeseburger": "Hamburguesa de queso",
+  "item.createfa.salt": "Sal",
+  "item.createfa.cheese": "Queso",
+  "item.createfa.schnitzel": "Chuleta de ternera",
+  "item.createfa.bread_crumbs": "Migas de pan",
+  "item.createfa.groundchicken": "Pollo picado",
+  "item.createfa.chicken_nuggets": "Nuggets de pollo",
+  "item.createfa.mixed_egg": "Huevos revueltos",
+  "item.createfa.fries": "Patatas fritas",
+  "item.createfa.meatballs": "Albóndigas",
+
+  "tooltip.cheeseburger.createfa": "§dLa comida favorita de mi hermanita",
+  "tooltip.schnitzel.createfa": "§bMi comida favorita",
+  "tooltip.mixed_egg.createfa": "§5Comida favorita de GesturesKing",
+
+  "itemGroup.createfatab" : "Create Food Additions"
+}
