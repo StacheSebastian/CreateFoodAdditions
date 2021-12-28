@@ -1,10 +1,10 @@
 package com.stachegamer1609.createfa;
 
-import net.minecraft.item.ItemGroup;
-import net.minecraft.item.ItemStack;
-import net.minecraft.item.Items;
+import net.minecraft.world.item.CreativeModeTab;
+import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.item.Items;
 
-public class CreateFoodAdditionsTab extends ItemGroup {
+public class CreateFoodAdditionsTab extends CreativeModeTab {
     public CreateFoodAdditionsTab()
     {
         super ("createfatab");
