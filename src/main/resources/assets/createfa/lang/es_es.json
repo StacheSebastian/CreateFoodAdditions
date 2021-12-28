@@ -1,0 +1,25 @@
+{
+  "item.createfa.hamburger": "Hamburguesa",
+  "item.createfa.cheeseburger": "Hamburguesa de queso",
+  "item.createfa.salt": "Sal",
+  "item.createfa.cheese": "Queso",
+  "item.createfa.schnitzel": "Chuleta de ternera",
+  "item.createfa.bread_crumbs": "Migas de pan",
+  "item.createfa.ground_chicken": "Pollo picado",
+  "item.createfa.chicken_nuggets": "Nuggets de pollo",
+  "item.createfa.mixed_egg": "Huevos revueltos",
+  "item.createfa.ground_beef": "Ternera molida",
+  "item.createfa.fries": "Patatas fritas",
+  "item.createfa.meatballs": "Albóndigas",
+  "item.createfa.incomplete_cheeseburger": "Hamburguesa de queso incompleta",
+  "item.createfa.incomplete_hamburger": "Hamburguesa incompleta",
+  "item.createfa.incomplete_schnitzel": "Chuleta incompleta de ternera",
+  "item.createfa.incomplete_meatballs": "Albóndigas incompletas",
+  "item.createfa.incomplete_chicken_nuggets": "Nuggets incompletos de pollo",
+
+
+  "tooltip.cheeseburger.createfa": "§dLa comida favorita de mi hermanita",
+  "tooltip.schnitzel.createfa": "§bMi comida favorita",
+
+  "itemGroup.createfatab" : "Create Food Additions"
+}
