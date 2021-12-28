@@ -17,9 +17,5 @@
   "item.createfa.incomplete_meatballs": "Albóndigas incompletas",
   "item.createfa.incomplete_chicken_nuggets": "Nuggets incompletos de pollo",
 
-
-  "tooltip.cheeseburger.createfa": "§dLa comida favorita de mi hermanita",
-  "tooltip.schnitzel.createfa": "§bMi comida favorita",
-
   "itemGroup.createfatab" : "Create Food Additions"
 }
