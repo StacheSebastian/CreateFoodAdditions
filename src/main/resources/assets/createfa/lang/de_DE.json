@@ -17,9 +17,5 @@
   "item.createfa.incomplete_meatballs": "Unvollständiger Fleischbällchen",
   "item.createfa.incomplete_chicken_nuggets": "Unvollständiger Chicken Nuggets",
 
-
-  "tooltip.cheeseburger.createfa": "§dMy little Sister's Favorite Food",
-  "tooltip.schnitzel.createfa": "§bMein Lieblingsessen",
-
   "itemGroup.createfatab" : "Create Food Additions"
 }
