@@ -13,7 +13,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '1.18.1_v1.0.8'
+version = '1.18.1_v1.0.9'
 group = 'com.stachegamer1609.createfa' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'createfa'
 
@@ -103,13 +103,12 @@ repositories {
 }
 
 dependencies {
-    minecraft 'net.minecraftforge:forge:1.18.1-39.0.9'
-    implementation fg.deobf("curse.maven:jei-238222:3574041")
-    implementation fg.deobf("curse.maven:create-328085:3564692")
-    implementation fg.deobf("curse.maven:flywheel-486392:3568139")
-    implementation fg.deobf("curse.maven:drawers-223852:3576898")
+    minecraft 'net.minecraftforge:forge:1.18.1-39.0.46'
+    implementation fg.deobf("curse.maven:jei-238222:3641665")
+    implementation fg.deobf("curse.maven:create-328085:3623348")
+    implementation fg.deobf("curse.maven:flywheel-486392:3623314")
+    implementation fg.deobf("curse.maven:drawers-223852:3611505")
 }
-
 // Example for how to get properties into the manifest for reading at runtime.
 jar {
     manifest {

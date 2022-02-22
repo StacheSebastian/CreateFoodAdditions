@@ -16,6 +16,8 @@
   "item.createfa.incomplete_schnitzel": "Incomplete Schnitzel",
   "item.createfa.incomplete_meatballs": "Incomplete Meatballs",
   "item.createfa.incomplete_chicken_nuggets": "Incomplete Chicken Nuggets",
+  "item.createfa.incomplete_fries": "Incomplete Fries",
+  "item.createfa.incomplete_spaghetti_bolognese": "Incomplete Spaghetti Bolognese",
 
   "itemGroup.createfatab" : "Create Food Additions"
 }

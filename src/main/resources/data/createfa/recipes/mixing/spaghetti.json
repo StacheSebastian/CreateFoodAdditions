@@ -2,21 +2,20 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "item": "minecraft:egg"
-    },
-    {
-      "item": "minecraft:egg"
-    },
-    {
-      "item": "minecraft:egg"
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 500
     },
     {
       "item": "createfa:salt"
+    },
+    {
+      "item": "createfa:uncooked_spaghetti"
     }
   ],
   "results": [
     {
-      "item": "createfa:mixed_egg",
+      "item": "createfa:spaghetti",
       "count": 1
     }
   ],

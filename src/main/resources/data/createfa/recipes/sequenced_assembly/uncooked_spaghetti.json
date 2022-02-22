@@ -1,0 +1,67 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:wheat_flour"
+  },
+  "transitionalItem": {
+    "item": "createfa:incomplete_uncooked_spaghetti"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createfa:incomplete_uncooked_spaghetti"
+        },
+        {
+          "item": "create:wheat_flour"
+        }
+      ],
+      "results": [
+        {
+          "item": "createfa:incomplete_uncooked_spaghetti"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createfa:incomplete_uncooked_spaghetti"
+        },
+        {
+          "item": "minecraft:egg"
+        }
+      ],
+      "results": [
+        {
+          "item": "createfa:incomplete_uncooked_spaghetti"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "createfa:incomplete_uncooked_spaghetti"
+        },
+        {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 50
+        }
+      ],
+      "results": [
+        {
+          "item": "createfa:incomplete_uncooked_spaghetti"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "createfa:uncooked_spaghetti"
+    }
+  ],
+  "loops": 4
+}

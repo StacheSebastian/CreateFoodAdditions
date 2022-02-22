@@ -54,6 +54,24 @@
           "item": "createfa:incomplete_schnitzel"
         }
       ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "createfa:incomplete_schnitzel"
+        },
+        {
+          "fluid": "minecraft:lava",
+          "nbt": {},
+          "amount": 10
+        }
+      ],
+      "results": [
+        {
+          "item": "createfa:incomplete_schnitzel"
+        }
+      ]
     }
   ],
   "results": [

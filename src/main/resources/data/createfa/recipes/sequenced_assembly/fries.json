@@ -1,17 +1,30 @@
 {
   "type": "create:sequenced_assembly",
   "ingredient": {
-    "item": "createfa:ground_beef"
+    "item": "minecraft:potato"
   },
   "transitionalItem": {
-    "item": "createfa:incomplete_meatballs"
+    "item": "createfa:incomplete_fries"
   },
   "sequence": [
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "createfa:incomplete_fries"
+        }
+      ],
+      "results": [
+        {
+          "item": "createfa:incomplete_fries"
+        }
+      ]
+    },
     {
       "type": "create:deploying",
       "ingredients": [
         {
-          "item": "createfa:incomplete_meatballs"
+          "item": "createfa:incomplete_fries"
         },
         {
           "item": "createfa:salt"
@@ -19,7 +32,7 @@
       ],
       "results": [
         {
-          "item": "createfa:incomplete_meatballs"
+          "item": "createfa:incomplete_fries"
         }
       ]
     },
@@ -27,7 +40,7 @@
       "type": "create:filling",
       "ingredients": [
         {
-          "item": "createfa:incomplete_meatballs"
+          "item": "createfa:incomplete_fries"
         },
         {
           "fluid": "minecraft:lava",
@@ -37,15 +50,15 @@
       ],
       "results": [
         {
-          "item": "createfa:incomplete_meatballs"
+          "item": "createfa:incomplete_fries"
         }
       ]
     }
   ],
   "results": [
     {
-      "item": "createfa:meatballs",
-      "count": 2
+      "item": "createfa:fries",
+      "count": 4
     }
   ],
   "loops": 1

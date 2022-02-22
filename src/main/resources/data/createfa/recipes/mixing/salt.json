@@ -3,6 +3,7 @@
   "ingredients": [
     {
       "fluid": "minecraft:water",
+      "nbt": {},
       "amount": 250
     }
   ],
@@ -12,5 +13,5 @@
       "count": 1
     }
   ],
-  "heatRequirement": "heated"
+  "heatRequirement": "superheated"
 }

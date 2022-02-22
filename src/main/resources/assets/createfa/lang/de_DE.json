@@ -13,9 +13,12 @@
   "item.createfa.meatballs": "Fleischbällchen",
   "item.createfa.incomplete_cheeseburger": "Unvollständiger Cheeseburger",
   "item.createfa.incomplete_hamburger": "Unvollständiger Hamburger",
-  "item.createfa.incomplete_schnitzel": "Unvollständiger Schnitzel",
-  "item.createfa.incomplete_meatballs": "Unvollständiger Fleischbällchen",
-  "item.createfa.incomplete_chicken_nuggets": "Unvollständiger Chicken Nuggets",
+  "item.createfa.incomplete_schnitzel": "Unvollständiges Schnitzel",
+  "item.createfa.incomplete_meatballs": "Unvollständige Fleischbällchen",
+  "item.createfa.incomplete_chicken_nuggets": "Unvollständige Chicken Nuggets",
+  "item.createfa.incomplete_fries": "Unvollständige Pommes",
+  "item.createfa.incomplete_spaghetti_bolognese": "Unvollständige Spaghetti Bolognese",
+
 
   "itemGroup.createfatab" : "Create Food Additions"
 }
