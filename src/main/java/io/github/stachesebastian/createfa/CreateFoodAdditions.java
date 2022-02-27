@@ -1,7 +1,7 @@
-package com.stachegamer1609.createfa;
+package io.github.stachesebastian.createfa;
 
-import com.stachegamer1609.createfa.core.init.FluidInit;
-import com.stachegamer1609.createfa.core.init.ItemInit;
+import io.github.stachesebastian.createfa.core.init.FluidInit;
+import io.github.stachesebastian.createfa.core.init.ItemInit;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
