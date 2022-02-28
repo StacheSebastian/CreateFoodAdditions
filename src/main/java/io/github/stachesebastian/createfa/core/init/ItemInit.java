@@ -25,7 +25,7 @@ public class ItemInit {
     public static final RegistryObject<Item> SPAGHETTI_BOLOGNESE = ITEMS.register("spaghetti_bolognese", () -> new SpicyyyyItem(new Item.Properties().tab(CreateFoodAdditions.createfatab).food(new FoodProperties.Builder().nutrition(4).saturationMod(0.6f).build())));
     public static final RegistryObject<Item> SPAGHETTI_WITH_MEATBALLS = ITEMS.register("spaghetti_with_meatballs", () -> new SpicyyyyItem(new Item.Properties().tab(CreateFoodAdditions.createfatab).food(new FoodProperties.Builder().nutrition(4).saturationMod(0.6f).build())));
     public static final RegistryObject<Item> SPAGHETTI_CARBONARA = ITEMS.register("spaghetti_carbonara", () -> new SpicyyyyItem(new Item.Properties().tab(CreateFoodAdditions.createfatab).food(new FoodProperties.Builder().nutrition(4).saturationMod(0.6f).build())));
-    //public static final RegistryObject<Item> PANCAKES = ITEMS.register("pancakes", () -> new Item(new Item.Properties().tab(CreateFoodAdditions.createfatab).food(new FoodProperties.Builder().nutrition(4).saturationMod(0.6f).build())));
+    public static final RegistryObject<Item> PANCAKES = ITEMS.register("pancakes", () -> new Item(new Item.Properties().tab(CreateFoodAdditions.createfatab).food(new FoodProperties.Builder().nutrition(4).saturationMod(0.6f).build())));
     //public static final RegistryObject<Item> WAFFLES = ITEMS.register("waffles", () -> new Item(new Item.Properties().tab(CreateFoodAdditions.createfatab).food(new FoodProperties.Builder().nutrition(4).saturationMod(0.6f).build())));
 
     //Items

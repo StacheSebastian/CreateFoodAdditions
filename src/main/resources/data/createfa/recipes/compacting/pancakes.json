@@ -1,0 +1,16 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "fluid": "createfa:pancake_batter",
+      "nbt": {},
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "item": "createfa:pancakes"
+    }
+  ],
+  "heatRequirement": "heated"
+}

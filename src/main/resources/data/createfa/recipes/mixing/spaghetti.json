@@ -17,6 +17,11 @@
     {
       "item": "createfa:spaghetti",
       "count": 1
+    },
+    {
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 500
     }
   ],
   "heatRequirement": "heated"
